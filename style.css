@@ -1,0 +1,71 @@
+#name {
+  font-family: "Poppins", sans-serif;
+}
+
+#logo {
+  font-family: "Poppins", sans-serif;
+}
+
+.nav-item .nav-link {
+  color: #f8f7f6;
+}
+
+ul li:hover {
+  border-bottom: 4px solid #f8f7f6;
+}
+
+.navbar-brand {
+  color: #f8f7f6;
+}
+
+.navbar-toggler {
+  background-color: #f2f2f2;
+  color: #e84252;
+}
+
+.navbar-toggler-icon {
+  background-color: #6aa1d6;
+}
+
+.profile {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.home-text .profile {
+  color: #e84252;
+}
+
+.judul {
+  text-align: center;
+  margin-top: 10rem;
+  color: #e84252;
+}
+
+.judul {
+  border-bottom: 3px solid gray;
+  padding-bottom: 20px;
+}
+.profile {
+  border-bottom: 3px solid gray;
+  padding-bottom: 20px;
+}
+
+.contact {
+  border-bottom: 3px solid gray;
+  padding-bottom: 20px;
+}
+
+.copyright {
+  color: #f8f7f6;
+}
+
+.span-nav {
+  color: #1062c1;
+}
+
+.copyright .text-primary {
+  text-decoration: none;
+}
+
+/* CSS  */
